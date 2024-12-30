@@ -1,5 +1,10 @@
 ## Hi there 👋
-
+- 🌱 I’m currently learning go and database
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nanxu0124/nanxu0124/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nanxu0124/nanxu0124/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nanxu0124/nanxu0124/output/github-contribution-grid-snake.svg">
+</picture>
 <!--
 **nanxu0124/nanxu0124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
